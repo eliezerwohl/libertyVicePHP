@@ -1,4 +1,3 @@
-
 h2, h1{
   color:white;
 }
@@ -15,7 +14,6 @@ h2, h1{
   font-family: 'Audiowide', cursive;
   color:#27FDF5;
 }
-
 
 .hideIt{
   display: none
@@ -36,9 +34,7 @@ h2, h1{
 .pink{
   margin-top: 0px;
 }
-
-/*@media (min-width: 768px) {*/
- body{
+body{
   background-image: 
     linear-gradient(
       rgba(0, 0, 0, 0.5),
@@ -48,24 +44,11 @@ h2, h1{
  background-attachment: fixed;
 background-size: cover;
   }
-
-/*}*/
-
-
-
-/*@media (max-width: 768px) {
-  body{
-    background-color: black;
-  }
-}*/
-
-
 .jumbotron{
     background: rgba(25, 25, 25, .5);
     color: white;
     min-height: 330px;
     margin-top:50px;
-
 }
 
 #contactUsSection{
@@ -75,7 +58,6 @@ background-size: cover;
   margin-top: 20px;
   margin-bottom:0px;
   padding-top: 20px
-  
 }
 
 .instrument{
@@ -84,12 +66,10 @@ background-size: cover;
 
 #bandHistorySection{
   min-height: 400px;
-
   margin-bottom:20px;
-
 }
-.title {
 
+.title {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -98,10 +78,9 @@ background-size: cover;
   text-align: center;
 }
 
-p{
+p {
 	color:white;
 }
-
 
 .customPanel{
   border:2px;
@@ -110,8 +89,6 @@ p{
 .navbar-default .navbar-nav>li>a{
   color:#A8F6F8;
 }
-
-
 
 .name{
   color:#F98DC9;
@@ -411,4 +388,3 @@ p{
 * {
   box-sizing: border-box;
 }
-
