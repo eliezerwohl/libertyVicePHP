@@ -34,6 +34,10 @@
 <div class="col-md-12 container-fluid">
 
 <?php include("templates/home.php") ?>
+<?php include("templates/bandHistory.php") ?>
+<?php include("templates/demoSection.php") ?>
+<?php include("templates/memberSection.php") ?>
+<?php include("templates/contactUs.php") ?>
 </div>
 
 
