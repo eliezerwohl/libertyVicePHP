@@ -1,7 +1,7 @@
 <div class="col-md-12 section text-center jumbotron hideIt" id="demosSection">
 		<h3 class="pink">Check out our first demo, "A Nice Day Inside" </h3>
 		<audio id="myTune">
-			  <source src="/assets/music/niceDayInsideBeta.mp3">
+			  <source src="assets/music/niceDayInsideBeta.mp3">
 			</audio>
 		<div class="wrap hidden-xs ">
 			<div class="boombox">
